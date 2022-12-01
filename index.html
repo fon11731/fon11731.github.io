@@ -198,4 +198,17 @@ if (true) {
 } else {
   subtitleType()
 }
-</script></div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
+</script>
+  <script>// 按键事件
+document.onkeydown = keyPress;
+function keyPress(event) {
+	event = event ? event : window.event;
+	var keyCode = event.which ? event.which : event.keyCode;
+	var keyEvent = get_key_event(keyCode);
+	if(keyCode == 123){//禁止键盘f12按键
+		window.event.cancelBubble = true;
+		window.event.returnValue = false;
+		//也可以在按f12后跳转到指定提示页面
+	}
+}</script>
+  </div><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div></body></html>
