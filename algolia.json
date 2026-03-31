@@ -1,13 +1,1 @@
-[
-  {
-    "objectID": "2e2d6d88db73f022e16faeb0f2f55b785841387b",
-    "permalink": "/post/my-first-post/",
-    "title": "我的第一篇文章","content": " 简介 这是 粗体 文本，这是 斜体 文本。\n访问 Hugo 网站！\n","date": "2026-03-30 21:10:08",
-    "updated": "2026-03-30 21:10:08"
-  }, 
-  {
-    "objectID": "1e7e1aec2b36126b978f1ca41c81bdc114ce7428",
-    "permalink": "/post/test/",
-    "title": "测试文章","content": " 你好 这是一篇测试文章。\n","date": "2026-03-30 12:00:00",
-    "updated": "2026-03-30 12:00:00"
-  }]
+[{"objectID":"2e2d6d88db73f022e16faeb0f2f55b785841387b","permalink":"/post/my-first-post/","title":"我的第一篇文章","content":" 简介 这是 粗体 文本，这是 斜体 文本。\n访问 Hugo 网站！\n","date":"2026-03-30 21:10:08","updated":"2026-03-30 21:10:08"},{"objectID":"1e7e1aec2b36126b978f1ca41c81bdc114ce7428","permalink":"/post/test/","title":"测试文章","content":" 你好 这是一篇测试文章。\n","date":"2026-03-30 12:00:00","updated":"2026-03-30 12:00:00"}]
