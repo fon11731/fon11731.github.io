@@ -1,5 +1,34 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>云酱の小blog</title><link>https://fon11731.github.io/algolia.json</link><description>Recent content from 云酱の小blog</description><generator>Hugo</generator><language>zh-cn</language><managingEditor>xxx@example.com (D-Sketon)</managingEditor><webMaster>xxx@example.com (D-Sketon)</webMaster><copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright><lastBuildDate>Mon, 30 Mar 2026 21:10:08 +0800</lastBuildDate><atom:link href="https://fon11731.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>我的第一篇文章</title><link>https://fon11731.github.io/post/my-first-post/</link><pubDate>Mon, 30 Mar 2026 21:10:08 +0800</pubDate><author>xxx@example.com (D-Sketon)</author><guid>https://fon11731.github.io/post/my-first-post/</guid><description>
-<![CDATA[<h1>我的第一篇文章</h1><p>作者：D-Sketon（xxx@example.com）</p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>云酱の小blog</title>
+    <link>http://localhost:1313/algolia.json</link>
+    <description>Recent content from 云酱の小blog</description>
+    <generator>Hugo</generator>
+    <language>zh-cn</language>
+    
+    <managingEditor>1564681084@qq.com (天启之云)</managingEditor>
+    <webMaster>1564681084@qq.com (天启之云)</webMaster>
+    
+    <copyright>本博客所有文章除特别声明外，均采用 BY-NC-SA 许可协议。转载请注明出处！</copyright>
+    
+    <lastBuildDate>Mon, 30 Mar 2026 21:10:08 +0800</lastBuildDate>
+    
+    
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss&#43;xml" />
+    
+
+    
+    
+
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/post/my-first-post/</link>
+      <pubDate>Mon, 30 Mar 2026 21:10:08 &#43;0800</pubDate>
+      <author>1564681084@qq.com (天启之云)</author>
+      <guid>http://localhost:1313/post/my-first-post/</guid>
+      <description>
+        <![CDATA[<h1>我的第一篇文章</h1><p>作者：天启之云（1564681084@qq.com）</p>
         
           <h2 id="简介">
 <a class="header-anchor" href="#%e7%ae%80%e4%bb%8b"></a>
@@ -7,12 +36,31 @@
 </h2><p>这是 <strong>粗体</strong> 文本，这是 <em>斜体</em> 文本。</p>
 <p>访问 <a href="https://gohugo.io">Hugo</a> 网站！</p>
         
-        <hr><p>本文2026-03-30首发于<a href='https://fon11731.github.io/'>云酱の小blog</a>，最后修改于2026-03-30</p>]]></description></item><item><title>测试文章</title><link>https://fon11731.github.io/post/test/</link><pubDate>Mon, 30 Mar 2026 12:00:00 +0800</pubDate><author>xxx@example.com (D-Sketon)</author><guid>https://fon11731.github.io/post/test/</guid><description>
-<![CDATA[<h1>测试文章</h1><p>作者：D-Sketon（xxx@example.com）</p>
+        <hr><p>本文2026-03-30首发于<a href='http://localhost:1313/'>云酱の小blog</a>，最后修改于2026-03-30</p>]]>
+      </description>
+      
+    </item>
+    
+    
+
+    <item>
+      <title>测试文章</title>
+      <link>http://localhost:1313/post/test/</link>
+      <pubDate>Mon, 30 Mar 2026 12:00:00 &#43;0800</pubDate>
+      <author>1564681084@qq.com (天启之云)</author>
+      <guid>http://localhost:1313/post/test/</guid>
+      <description>
+        <![CDATA[<h1>测试文章</h1><p>作者：天启之云（1564681084@qq.com）</p>
         
           <h2 id="你好">
 <a class="header-anchor" href="#%e4%bd%a0%e5%a5%bd"></a>
 你好
 </h2><p>这是一篇测试文章。</p>
         
-        <hr><p>本文2026-03-30首发于<a href='https://fon11731.github.io/'>云酱の小blog</a>，最后修改于2026-03-30</p>]]></description></item></channel></rss>
+        <hr><p>本文2026-03-30首发于<a href='http://localhost:1313/'>云酱の小blog</a>，最后修改于2026-03-30</p>]]>
+      </description>
+      
+    </item>
+    
+  </channel>
+</rss>
