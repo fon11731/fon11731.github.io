@@ -2693,6 +2693,10 @@ mjx-container::-webkit-scrollbar {
   background-color: var(--red-1);
 }
 
+.utterances {
+  max-width: none !important;
+}
+
 @media screen and (min-width: 960px) {
   #mobile-nav {
     display: none;
